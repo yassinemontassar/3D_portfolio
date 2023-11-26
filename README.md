@@ -1,3 +1,4 @@
 # Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
 
-![3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
+![image](https://github.com/yassinemontassar/3D_portfolio/assets/117606968/16cdd9b9-92d1-469f-ae8e-41c45c2835f2)
+
